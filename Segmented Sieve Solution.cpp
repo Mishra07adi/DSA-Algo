@@ -35,3 +35,5 @@ int main()
     cin>>n;
     printPrimes(n);
 }
+
+// This Code is Contributed by Aditya Mishra.
